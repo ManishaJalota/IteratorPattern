@@ -1,0 +1,2 @@
+# IteratorPattern
+Iterator
